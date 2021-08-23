@@ -1,0 +1,20 @@
+header{
+    nav ul{
+        list-style: none;
+        padding: 0px;
+        margin:	0px;
+        background-color: #af3e4d;
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;}
+        nav ul a{
+            color: #ffffff;
+            text-decoration: none;
+            padding: 10px;
+            display: inline-flex;
+        }
+            nav ul a:hover{
+                background-color: #07f5f5;
+                color: #ff0000;
+            }
+}
